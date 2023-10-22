@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://w.wallhaven.cc/full/p8/wallhaven-p8d93e.jpg" align="center" style="width: 100%" />
+<img src="https://storage.googleapis.com/pai-images/82d2956a847c44e8bb18c27b4a3b0f43.jpeg" align="center" style="width: 100%" />
 </div>  
   
 
